@@ -5,12 +5,12 @@ import { Heart } from 'lucide-react'
 
 const Footer = () => {
   const socialLinks = [
-    { icon: FaWhatsapp, url: 'https://wa.me/6281234567890', color: '#25D366' },
+    { icon: FaWhatsapp, url: 'https://wa.me/6285117070328', color: '#25D366' },
     { icon: FaInstagram, url: 'https://instagram.com/renal_adnta', color: '#E4405F' },
-    { icon: FaGithub, url: 'https://github.com/resaadnyta', color: '#181717' },
-    { icon: FaLinkedin, url: 'https://linkedin.com/in/resaadnyta', color: '#0A66C2' },
-    { icon: FaYoutube, url: 'https://youtube.com/@resaadnyta', color: '#FF0000' },
-    { icon: FaDiscord, url: 'https://discord.com/users/resaadnyta', color: '#5865F2' },
+    { icon: FaGithub, url: 'https://github.com/resaaa', color: '#181717' },
+    { icon: FaLinkedin, url: 'https://instagram.com/renal_adnta', color: '#0A66C2' },
+    { icon: FaYoutube, url: 'https://instagram.com/renal_adnta', color: '#FF0000' },
+    { icon: FaDiscord, url: 'https://instagram.com/renal_adnta', color: '#5865F2' },
   ]
 
   return (
@@ -41,7 +41,7 @@ const Footer = () => {
             <span>© 2025 Resa4You</span>
             <span>—</span>
             <span className="flex items-center gap-1">
-              Made with <Heart size={14} className="text-primary animate-pulse" /> in Bandung
+              Amatir Developer
             </span>
           </div>
 

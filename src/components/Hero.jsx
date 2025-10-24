@@ -22,8 +22,8 @@ const Hero = () => {
           viewport={{ once: true }}
         >
           <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-heading font-bold mb-6 text-glow">
-            <span className="text-white">Resa</span>
-            <span className="text-primary"> Adnyta</span>
+            <span className="text-white">Renzy</span>
+            <span className="text-primary"> Rendranta</span>
           </h1>
         </motion.div>
 

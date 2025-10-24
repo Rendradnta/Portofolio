@@ -14,9 +14,9 @@ const Contact = () => {
     { icon: FaWhatsapp, url: 'https://wa.me/6281234567890', color: '#25D366', label: 'WhatsApp' },
     { icon: FaInstagram, url: 'https://instagram.com/renal_adnta', color: '#E4405F', label: 'Instagram' },
     { icon: FaGithub, url: 'https://github.com/resaadnyta', color: '#181717', label: 'GitHub' },
-    { icon: FaLinkedin, url: 'https://linkedin.com/in/resaadnyta', color: '#0A66C2', label: 'LinkedIn' },
-    { icon: FaYoutube, url: 'https://youtube.com/@resaadnyta', color: '#FF0000', label: 'YouTube' },
-    { icon: FaDiscord, url: 'https://discord.com/users/resaadnyta', color: '#5865F2', label: 'Discord' },
+    { icon: FaLinkedin, url: 'https://instagram.com/renal_adnta', color: '#0A66C2', label: 'LinkedIn' },
+    { icon: FaYoutube, url: 'https://instagram.com/renal_adnta', color: '#FF0000', label: 'YouTube' },
+    { icon: FaDiscord, url: 'https://instagram.com/renal_adnta', color: '#5865F2', label: 'Discord' },
   ]
 
   const handleSubmit = (e) => {
@@ -86,7 +86,7 @@ const Contact = () => {
             <motion.div variants={fadeIn('left', 0.3)}>
               <form onSubmit={handleSubmit} className="glass-effect p-8 rounded-lg card-glow">
                 <h3 className="text-2xl font-heading font-semibold mb-6 text-primary-light">
-                  Kirim Pesan (Gimmick)
+                  Kirim Pesan
                 </h3>
 
                 <div className="space-y-4">

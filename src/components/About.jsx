@@ -29,8 +29,8 @@ const About = () => {
                 <div className="absolute -inset-1 bg-gradient-to-r from-primary to-primary-light rounded-full blur opacity-75 group-hover:opacity-100 transition duration-300"></div>
                 <div className="relative w-64 h-64 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-primary">
                   <img
-                    src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
-                    alt="Resa Adnyta"
+                    src="https://raw.githubusercontent.com/Rendradnta/BoboiboyDB/main/database/59926218322e25d9.jpeg"
+                    alt="Renzy"
                     className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                   />
                 </div>
@@ -43,7 +43,7 @@ const About = () => {
             >
               <div className="glass-effect p-6 rounded-lg card-glow">
                 <h3 className="text-2xl font-heading font-semibold mb-4 text-primary-light">
-                  Hello! I'm Resa Adnyta
+                  Hello! I'm Renzy
                 </h3>
                 <p className="text-gray-300 leading-relaxed mb-4">
                   A passionate fullstack developer with expertise in modern web technologies. 
@@ -64,7 +64,7 @@ const About = () => {
                   <MapPin className="text-primary" size={24} />
                   <div>
                     <p className="text-sm text-gray-400">Location</p>
-                    <p className="font-medium">Bandung, Indonesia</p>
+                    <p className="font-medium">Jawa Tengah, Indonesia</p>
                   </div>
                 </motion.div>
 
@@ -75,7 +75,7 @@ const About = () => {
                   <GraduationCap className="text-primary" size={24} />
                   <div>
                     <p className="text-sm text-gray-400">Education</p>
-                    <p className="font-medium">Universitas Teknologi Kreatif</p>
+                    <p className="font-medium">SMAN 1</p>
                   </div>
                 </motion.div>
 
@@ -86,7 +86,7 @@ const About = () => {
                   <Code2 className="text-primary" size={24} />
                   <div>
                     <p className="text-sm text-gray-400">Specialization</p>
-                    <p className="font-medium">Fullstack Web Development</p>
+                    <p className="font-medium">Amatir Development</p>
                   </div>
                 </motion.div>
               </div>
